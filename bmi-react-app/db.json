@@ -1,0 +1,11 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "Pedro",
+      "weight": "65",
+      "height": "1.7",
+      "bmi": "22.49"
+    }
+  ]
+}
