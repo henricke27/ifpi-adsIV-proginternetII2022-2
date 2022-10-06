@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+
+  width: 100vh;
+  height: 100vh;
+}
+
+.App li{
+  list-style-type: none;
+}
+
+.App ul{
+  padding: 0px;
+}
+
+.App nav ul{
+  display: flex;
+  justify-content: center;
+}
+
+.App nav li{
+  margin: 15px;
+}
+
